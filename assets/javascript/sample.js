@@ -1,0 +1,3 @@
+var bvdisvbds = {
+	property : "value"
+}
